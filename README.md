@@ -1,3 +1,17 @@
+This is an FRONT END Project I did to keep my coding skills up to date. 
+
+Modern UI/UX Website in React JS client!
+
+This code contains how to
+
+- React functional components and their reusability
+- React file and folder structure
+- Fundamental #CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost all devices
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
