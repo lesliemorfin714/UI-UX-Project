@@ -1,4 +1,4 @@
-This is an FRONT END Project I did to keep my coding skills up to date. 
+MASTERING FRONT END Project 
 
 Modern UI/UX Website in React JS client!
 
