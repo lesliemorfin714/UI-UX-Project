@@ -13,6 +13,9 @@ This code contains how to
 
 <img width="1440" alt="Screen Shot 2022-03-31 at 4 30 31 PM" src="https://user-images.githubusercontent.com/79027037/161169771-18c2e63d-0d47-4bdc-b231-42eca6d2168e.png">
 
+<img width="1440" alt="Screen Shot 2022-03-31 at 4 30 35 PM" src="https://user-images.githubusercontent.com/79027037/161169952-23681be1-aa90-4374-b77f-bb7196d67673.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
