@@ -11,7 +11,7 @@ This code contains how to
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices
 
-
+<img width="1440" alt="Screen Shot 2022-03-31 at 4 30 31 PM" src="https://user-images.githubusercontent.com/79027037/161169771-18c2e63d-0d47-4bdc-b231-42eca6d2168e.png">
 
 # Getting Started with Create React App
 
