@@ -14,6 +14,10 @@ This code contains how to
 <img width="1440" alt="Screen Shot 2022-03-31 at 4 30 31 PM" src="https://user-images.githubusercontent.com/79027037/161169771-18c2e63d-0d47-4bdc-b231-42eca6d2168e.png">
 
 <img width="1440" alt="Screen Shot 2022-03-31 at 4 30 35 PM" src="https://user-images.githubusercontent.com/79027037/161169952-23681be1-aa90-4374-b77f-bb7196d67673.png">
+<img width="1440" alt="Screen Shot 2022-03-31 at 4 30 40 PM" src="https://user-images.githubusercontent.com/79027037/161170067-53b91f43-215c-4a5d-a2e2-78797e7f9457.png">
+
+<img width="1440" alt="Screen Shot 2022-03-31 at 4 30 45 PM" src="https://user-images.githubusercontent.com/79027037/161170124-f56cf806-cc1b-4764-b845-56c48cf6a6d9.png">
+
 
 
 # Getting Started with Create React App
